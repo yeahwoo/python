@@ -157,10 +157,8 @@
 		- `x + y`:连接两个字符串x和y
 		- `n * x 或 x * n`:复制n次字符串x
 		- `x in s`:如果x是s的子串，返回True，否则返回False
-	- 字符串处理函数
-		 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/x1EMfS4TyCwW5oEG.png)
-		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/wRI1Nj4X8vAhpqWi.png)
-		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/H6H2npaXV8bxoysF.png)
+	- 字符串处理函数	 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/x1EMfS4TyCwW5oEG.png)
+		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/wRI1Nj4X8vAhpqWi.png)	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/H6H2npaXV8bxoysF.png)
 		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/W1P1mEggtxwCAsNe.png)
 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/TVb0wD7yjovJkpAS.png)
 - 字符串格式化
@@ -342,7 +340,7 @@
 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/CBMgi3EzifVSmbcw.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzY4NjAxNSwtMTE3NTY4NjQyNywtMj
+eyJoaXN0b3J5IjpbMTU5MjMxMDcxOSwtMTE3NTY4NjQyNywtMj
 k1NzA0OTkyLC0xNzY4ODQxMTU4LC0yMDMzNDU5ODUwLDQ1NjEx
 MDk5NV19
 -->
