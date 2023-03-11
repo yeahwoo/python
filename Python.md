@@ -165,9 +165,9 @@
 		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/W1P1mEggtxwCAsNe.png)
 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/TVb0wD7yjovJkpAS.png)
 - 字符串格式化
-![输入图片说明](/imgs/2023-03-11/e65CkXmDam1nqwHT.png)
-![输入图片说明](/imgs/2023-03-11/AjT7qY4HmF4DonE3.png)
-![输入图片说明](/imgs/2023-03-11/fsOti4wSjOE2TIja.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/XFiCvnvYy4duumiz.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/8hRSUnIcTlvioHT4.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/rsHlttpyiOxzUrpS.png)
 	```python
 	>>>"{0:=^20}".format("PYTHON")
 	'=======PYTHON======='
@@ -181,9 +181,9 @@
 	'3.140000e+00,3.140000E+00,3.140000,314.000000%'
 	``` 
 - 时间库
-	![输入图片说明](/imgs/2023-03-11/5mhUyCI5IhrrSw6P.png)
-![输入图片说明](/imgs/2023-03-11/KgbHU6OxNUARKe45.png)
-![输入图片说明](/imgs/2023-03-11/G5tJhtiVZgHb06QB.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/U9bLCQXfhDzsXQTu.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/yxsTmDWMXOG5cXjT.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/JJ5QwT6MCCVQwXGP.png)
 ![输入图片说明](/imgs/2023-03-11/h9gH0VH0cdOsdR0C.png)
 ![输入图片说明](/imgs/2023-03-11/gmg1k6PL9XFzl3jY.png)
 ![输入图片说明](/imgs/2023-03-11/YtYK2Ywx4gKMhvKY.png)
@@ -342,8 +342,9 @@
 - 写入
 ![输入图片说明](/imgs/2023-03-11/lhaM36QKOUAUg84O.png)
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc2ODM2MSwtMTE3NTY4NjQyNywtMj
-k1NzA0OTkyLC0xNzY4ODQxMTU4LC0yMDMzNDU5ODUwLDQ1NjEx
-MDk5NV19
+eyJoaXN0b3J5IjpbLTIwMTA1MjIyOTMsLTExNzU2ODY0MjcsLT
+I5NTcwNDk5MiwtMTc2ODg0MTE1OCwtMjAzMzQ1OTg1MCw0NTYx
+MTA5OTVdfQ==
 -->
