@@ -56,7 +56,7 @@
 	在Python中，通常用全部大写的 变量名表示常量。
 	Python中有两个比较常见的常量，分别为：PI和E。
 	- 字符串
-	![输入图片说明](/imgs/2023-03-11/g83qymHyG0OBIOYq.png )
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/M64VjCjxyiVPnHwR.png)
 	使用：
 		1. 索引：返回字符串中单个字符 <字符串>[M] "请输入带有符号的温度值: "[0] 或者 TempStr[-1]
 		2. 切片：返回字符串中一段字符子串 <字符串>[M: N] "请输入带有符号的温度值: "[1:3] 或者 TempStr[0:-1]
@@ -98,7 +98,7 @@
 	- `range(M,N)` 产生 M 到 N-1的整数序列，共N-M个
 	- `range(M,N.K)`K为步长
 - 实例
-![输入图片说明](/imgs/2023-03-11/vnwm4yqaltO84bQr.png)
+
 ### 第三章 基本数据类型
 - 整数4种进制表示形式：
 	- 十进制：1010, 99, -217 
@@ -340,5 +340,6 @@
 ![输入图片说明](/imgs/2023-03-11/lhaM36QKOUAUg84O.png)
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM0NTk4NTAsNDU2MTEwOTk1XX0=
+eyJoaXN0b3J5IjpbNDgzODY3MjAxLC0yMDMzNDU5ODUwLDQ1Nj
+ExMDk5NV19
 -->
