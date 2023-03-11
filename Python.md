@@ -45,7 +45,7 @@
 		```
 		输出的结果是：`ABC`
 	- 保留字
-	![输入图片说明](/imgs/2023-03-11/IDYU0XTTbaw28yCV.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/RTzRqL6ZB6oApxdE.png)
 - 数据类型
 	- 整型
 	在整数除法中，除法（/）计算结果是浮点数，即使是两个 整数恰好整除，结果也是浮点数，如果只想得到整数的结 果，丢弃可能的分数部分，可以使用地板除（//），整数的 地板除（//）永远是整数，即使除不尽。
@@ -340,5 +340,5 @@
 ![输入图片说明](/imgs/2023-03-11/lhaM36QKOUAUg84O.png)
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2MTEwOTk1XX0=
+eyJoaXN0b3J5IjpbLTIwMzM0NTk4NTAsNDU2MTEwOTk1XX0=
 -->
