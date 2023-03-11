@@ -218,16 +218,16 @@
 	- 扩展
 	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/2fZDFTYz6KYFQoyN.png)
 	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/EsEFsLOftNbNBHSR.png)
-![输入图片说明](/imgs/2023-03-11/xCLkfubTiGj1Mo4g.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/SYKKujQmgZ2BFnli.png)
 ### 第五章 函数与代码复用
 - 函数
 	- 函数可以没有参数，但必须保留括号
 	- 可选参数
-	![输入图片说明](/imgs/2023-03-11/P65xFcqWslrsBoEg.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/dlpdxw04xTzIiVBN.png)
 	- 可变参数：可不确定参数的总数量
-![输入图片说明](/imgs/2023-03-11/POUCADvfESGISMa7.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/nw3f0Tm3cWUC4tV7.png)
 - 参数传递
-![输入图片说明](/imgs/2023-03-11/6w7EwWLWjhVa8xa4.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/1rtnp5e6EC10iAwG.png)
 - 返回值
 可以有返回值也可以没有，也可以有多个，可以有return也可没有，return后也可以跟多个返回值，逗号隔开，位置必须一一对应。
 - 局部变量和全局变量
@@ -235,7 +235,7 @@
 	- 局部变量是函数内部的占位符，与全局变量可能重名但不同
 	- 函数运算结束后，局部变量被释放 
 	- 可以使用global保留字在函数内部使用全局变量
-	![输入图片说明](/imgs/2023-03-11/zo34UvdCLbJtASaS.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/VEAW2jOghnS3lfKT.png)
 	- 局部变量为组合数据类型且未创建，等同于全局变量：在函数外面已经创建过的在函数内再创建就是局部变量
 - lambda函数
 ```python
@@ -245,7 +245,7 @@
 >>> print(f())
 ```
 - 递归
-![输入图片说明](/imgs/2023-03-11/3a0iU45YrPxvNW5j.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/GfxKqMLgKXe7ElDw.png)
 - PyInstaller
 	- 使用：`(cmd命令行) pyinstaller -F <文件名.py>`
 	- 参数
@@ -343,7 +343,7 @@
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY5NTA2OSwtMTE3NTY4NjQyNywtMj
+eyJoaXN0b3J5IjpbMjA0OTUxODA3OCwtMTE3NTY4NjQyNywtMj
 k1NzA0OTkyLC0xNzY4ODQxMTU4LC0yMDMzNDU5ODUwLDQ1NjEx
 MDk5NV19
 -->
