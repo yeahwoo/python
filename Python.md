@@ -146,7 +146,7 @@
 		- `complex(x)`:将x变成复数，增加虚数部分
 		`complex(4) 结果为 4 + 0j`
 - Math库
-	![输入图片说明](/imgs/2023-03-11/zbT10jR2JO45orSS.png)
+	![输入图片说明](blob:https://stackedit.cn/864f45b9-56d7-4c96-8002-585b1fbabc64)
 	![输入图片说明](/imgs/2023-03-11/30XshL5hDivucmCs.png)
 	![输入图片说明](/imgs/2023-03-11/KgCgVerXOe6yOAon.png)
 	![输入图片说明](/imgs/2023-03-11/95rQDVbaJuEnie4N.png)
@@ -342,6 +342,6 @@
 ![输入图片说明](/imgs/2023-03-11/lhaM36QKOUAUg84O.png)
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTcwNDk5MiwtMTc2ODg0MTE1OCwtMj
+eyJoaXN0b3J5IjpbMjAzMzc4MDE2MSwtMTc2ODg0MTE1OCwtMj
 AzMzQ1OTg1MCw0NTYxMTA5OTVdfQ==
 -->
