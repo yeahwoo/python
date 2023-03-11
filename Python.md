@@ -288,8 +288,8 @@
 	- 使用方括号 [] 或list() 创建，元素间用逗号 , 分隔 
 	- 列表中各元素类型可以不同，无长度限制
 	- 操作
-
-![输入图片说明](/imgs/2023-03-11/6lYEHsLZbeDKZAED.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/F7cdgIYDwzUNlTyG.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/kxJZs9dZihOWFRCa.png)
 - 字典
 	- 字典类型是“映射”的体现
 	- 键值对：键是数据索引的扩展 
@@ -307,11 +307,11 @@
 	<class 'dict'>
 	```
 	- 操作
-	![输入图片说明](/imgs/2023-03-11/KI8o9NdaHYddOjM0.png)
-	![输入图片说明](/imgs/2023-03-11/C78H8Rz8hIlNnEHk.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/vaaB7nrIwHOH28m1.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/UjMKFlDO6ND3Be2H.png)
 - jieba
-![输入图片说明](/imgs/2023-03-11/f1HYKgMQeMhJ97za.png)
-![输入图片说明](/imgs/2023-03-11/uZZzrc2tvzkxLIAa.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/ZheI1ej9gHt9KVeH.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/MsO3OEEFR0dExHqy.png)
 ### 第七章 文件
 - 文件的理解
 	- 文件是数据的抽象和集合
@@ -329,9 +329,9 @@
 	- 适用于例如：.png文件、.avi文件等
 - 文件的打开和关闭
 	- 打开
-	![输入图片说明](/imgs/2023-03-11/8p0PnDfVJBha5LJs.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/DOxAPGdaTwOd1RIH.png)
 	- 打开模式
-	![输入图片说明](/imgs/2023-03-11/SFEkyxuEIHyYwp2H.png)
+	
 	- 实例
 	![输入图片说明](/imgs/2023-03-11/8XlkNgbowXLOSNI1.png)
 - 关闭
@@ -343,7 +343,7 @@
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUyNDIxMTQsLTExNzU2ODY0MjcsLT
-I5NTcwNDk5MiwtMTc2ODg0MTE1OCwtMjAzMzQ1OTg1MCw0NTYx
-MTA5OTVdfQ==
+eyJoaXN0b3J5IjpbMTExNDUyNjg1OCwtMTE3NTY4NjQyNywtMj
+k1NzA0OTkyLC0xNzY4ODQxMTU4LC0yMDMzNDU5ODUwLDQ1NjEx
+MDk5NV19
 -->
