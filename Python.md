@@ -152,17 +152,17 @@
 	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/rRiYPyOWwpAlFGYR.png)
 - 字符串
 	- 切片高级用法
-	
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/oktmlfxbanaJs1t4.png)
 	- 字符串操作符
 		- `x + y`:连接两个字符串x和y
 		- `n * x 或 x * n`:复制n次字符串x
 		- `x in s`:如果x是s的子串，返回True，否则返回False
 	- 字符串处理函数
 		 ![输入图片说明](/imgs/2023-03-11/BiUVbFfZrfYBp9C0.png)
-		![输入图片说明](/imgs/2023-03-11/ILvi80PWEPEcLUw3.png)
-		![输入图片说明](/imgs/2023-03-11/8hPQL13mhvykr8H7.png)
-		![输入图片说明](/imgs/2023-03-11/jDtzkSv23ZShuLGT.png)
-		![输入图片说明](/imgs/2023-03-11/TO3NzfHe9vaHSUyv.png)
+		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/XFUgMl5bWOd8bbYI.png)
+		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/wRI1Nj4X8vAhpqWi.png)
+		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/H6H2npaXV8bxoysF.png)
+		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/W1P1mEggtxwCAsNe.png)
 - 字符串格式化
 ![输入图片说明](/imgs/2023-03-11/e65CkXmDam1nqwHT.png)
 ![输入图片说明](/imgs/2023-03-11/AjT7qY4HmF4DonE3.png)
@@ -342,6 +342,6 @@
 ![输入图片说明](/imgs/2023-03-11/lhaM36QKOUAUg84O.png)
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg1MjkyNTgsLTI5NTcwNDk5MiwtMT
+eyJoaXN0b3J5IjpbLTExNzU2ODY0MjcsLTI5NTcwNDk5MiwtMT
 c2ODg0MTE1OCwtMjAzMzQ1OTg1MCw0NTYxMTA5OTVdfQ==
 -->
