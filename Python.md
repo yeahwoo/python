@@ -158,7 +158,7 @@
 		- `n * x 或 x * n`:复制n次字符串x
 		- `x in s`:如果x是s的子串，返回True，否则返回False
 	- 字符串处理函数
-		 ![输入图片说明](/imgs/2023-03-11/BiUVbFfZrfYBp9C0.png)
+		 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/6qNu89LsuXwH17uQ.png)
 		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/XFUgMl5bWOd8bbYI.png)
 		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/wRI1Nj4X8vAhpqWi.png)
 		![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/H6H2npaXV8bxoysF.png)
@@ -343,7 +343,7 @@
 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/CBMgi3EzifVSmbcw.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY1NzAxODUsLTExNzU2ODY0MjcsLT
-I5NTcwNDk5MiwtMTc2ODg0MTE1OCwtMjAzMzQ1OTg1MCw0NTYx
-MTA5OTVdfQ==
+eyJoaXN0b3J5IjpbLTYzNDIzMTE5NiwtMTE3NTY4NjQyNywtMj
+k1NzA0OTkyLC0xNzY4ODQxMTU4LC0yMDMzNDU5ODUwLDQ1NjEx
+MDk5NV19
 -->
