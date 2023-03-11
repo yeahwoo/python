@@ -98,7 +98,7 @@
 	- `range(M,N)` 产生 M 到 N-1的整数序列，共N-M个
 	- `range(M,N.K)`K为步长
 - 实例
-![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/eOdi0zibLSYho1Qg.png }
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/eOdi0zibLSYho1Qg.png )
 
 
 ### 第三章 基本数据类型
@@ -342,6 +342,6 @@
 ![输入图片说明](/imgs/2023-03-11/lhaM36QKOUAUg84O.png)
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTMzNzIyOCwtMTc2ODg0MTE1OCwtMj
+eyJoaXN0b3J5IjpbLTI5NTcwNDk5MiwtMTc2ODg0MTE1OCwtMj
 AzMzQ1OTg1MCw0NTYxMTA5OTVdfQ==
 -->
