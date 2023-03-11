@@ -249,9 +249,9 @@
 - PyInstaller
 	- 使用：`(cmd命令行) pyinstaller -F <文件名.py>`
 	- 参数
-	![输入图片说明](/imgs/2023-03-11/1dJKwkYpM5Oiuqmm.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/UfKYuGNw37enT3HC.png)
 	- 实例
-	![输入图片说明](/imgs/2023-03-11/Yh2utja6NQ6tDgg5.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/yLDBKGUqTXKvliuD.png)
 ### 第六章 组合数据类型
 - 集合
 	- 集合是多个元素的无序组合
@@ -267,9 +267,9 @@
 	{'python', 123}
 	```
 	- 操作符
-	![输入图片说明](/imgs/2023-03-11/uwFg27cLHdM0cwqR.png)
-	- 方法	![输入图片说明](/imgs/2023-03-11/esyaSU3vnsEsvj10.png)
-![输入图片说明](/imgs/2023-03-11/uxg1hC16iIpvejZM.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/uGYun1aUBwGhtxTy.png)
+	- 方法	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/97VKzdwkQFuIUu63.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/CT5QTrdqtaospV2x.png)
 - 元组
 	- 元组是一种序列类型，一旦创建就不能被修改，因此没有特殊操作
 	- 使用小括号 () 或 tuple() 创建，元素间用逗号 , 分隔 
@@ -288,7 +288,7 @@
 	- 使用方括号 [] 或list() 创建，元素间用逗号 , 分隔 
 	- 列表中各元素类型可以不同，无长度限制
 	- 操作
-![输入图片说明](/imgs/2023-03-11/tKv8rk23eSPQcNSW.png)
+
 ![输入图片说明](/imgs/2023-03-11/6lYEHsLZbeDKZAED.png)
 - 字典
 	- 字典类型是“映射”的体现
@@ -343,7 +343,7 @@
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTUxODA3OCwtMTE3NTY4NjQyNywtMj
-k1NzA0OTkyLC0xNzY4ODQxMTU4LC0yMDMzNDU5ODUwLDQ1NjEx
-MDk5NV19
+eyJoaXN0b3J5IjpbLTE2MDUyNDIxMTQsLTExNzU2ODY0MjcsLT
+I5NTcwNDk5MiwtMTc2ODg0MTE1OCwtMjAzMzQ1OTg1MCw0NTYx
+MTA5OTVdfQ==
 -->
