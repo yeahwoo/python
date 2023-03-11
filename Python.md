@@ -187,8 +187,8 @@
 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/NohGG4bxQNdtj2mQ.png)
 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/rYrOhdRJlNHSEKiz.png)
 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/lQYFAYhu5qvKa8hp.png)
-![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/82yxnRVPGL2fGMJj.png)
-	![输入图片说明](/imgs/2023-03-11/1Sj72OqYC7vGSR49.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/82yxnRVPGL2fGMJj.png)![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/4vIWjxRNtXw9QMUr.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/UeXACc46n06ihQRR.png)
 ### 第四章 控制结构
 - 条件组合
 	- `x and y`:与
@@ -211,14 +211,13 @@
 	```
 	- 文件
 	fi是一个文件标识符，遍历其每行，产生循环
-![输入图片说明](/imgs/2023-03-11/jedcsBHmq091R2sB.png)
-- random库
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/L2NPyaSNrWFB4nHd.png)- random库
 	- 用前导入`import random`
 	- 基本随机函数
-	![输入图片说明](/imgs/2023-03-11/gRAiGLipjnFu3NGX.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/13M9Hxem9xqM0daD.png)
 	- 扩展
-	![输入图片说明](/imgs/2023-03-11/qC8qFCLL1qY9jhnC.png)
-	![输入图片说明](/imgs/2023-03-11/XlNqYpNBCcCuVwfk.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/2fZDFTYz6KYFQoyN.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/EsEFsLOftNbNBHSR.png)
 ![输入图片说明](/imgs/2023-03-11/xCLkfubTiGj1Mo4g.png)
 ### 第五章 函数与代码复用
 - 函数
@@ -344,7 +343,7 @@
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU1ODY3NzIsLTExNzU2ODY0MjcsLT
-I5NTcwNDk5MiwtMTc2ODg0MTE1OCwtMjAzMzQ1OTg1MCw0NTYx
-MTA5OTVdfQ==
+eyJoaXN0b3J5IjpbLTE5NjY5NTA2OSwtMTE3NTY4NjQyNywtMj
+k1NzA0OTkyLC0xNzY4ODQxMTU4LC0yMDMzNDU5ODUwLDQ1NjEx
+MDk5NV19
 -->
