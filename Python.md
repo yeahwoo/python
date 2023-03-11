@@ -331,19 +331,19 @@
 	- 打开
 	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/DOxAPGdaTwOd1RIH.png)
 	- 打开模式
-	
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/D9zd3cxaf2hGwaFD.png)
 	- 实例
-	![输入图片说明](/imgs/2023-03-11/8XlkNgbowXLOSNI1.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/2jcfpqS9JZHgRutj.png)
 - 关闭
 `<变量名>.close()`
-- 读取![输入图片说明](/imgs/2023-03-11/EITDSJSaG1SBViI1.png)
-![输入图片说明](/imgs/2023-03-11/FNHpy5NF6rJieWzZ.png)
+- 读取![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/Llm6f1NBban9fomI.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/lcvLzjASPUgrre4W.png)
 - 写入
-![输入图片说明](/imgs/2023-03-11/lhaM36QKOUAUg84O.png)
-![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/cxYXu7IhD3F0p6fG.png)
+![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/CBMgi3EzifVSmbcw.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDUyNjg1OCwtMTE3NTY4NjQyNywtMj
-k1NzA0OTkyLC0xNzY4ODQxMTU4LC0yMDMzNDU5ODUwLDQ1NjEx
-MDk5NV19
+eyJoaXN0b3J5IjpbLTIxNDY1NzAxODUsLTExNzU2ODY0MjcsLT
+I5NTcwNDk5MiwtMTc2ODg0MTE1OCwtMjAzMzQ1OTg1MCw0NTYx
+MTA5OTVdfQ==
 -->
