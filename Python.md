@@ -99,6 +99,8 @@
 	- `range(M,N.K)`K为步长
 - 实例
 ![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/eOdi0zibLSYho1Qg.png)
+<img src=https://img-blog.csdnimg.cn/20200822014538211.png width=100% />
+
 ### 第三章 基本数据类型
 - 整数4种进制表示形式：
 	- 十进制：1010, 99, -217 
@@ -340,6 +342,6 @@
 ![输入图片说明](/imgs/2023-03-11/lhaM36QKOUAUg84O.png)
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg4NDExNTgsLTIwMzM0NTk4NTAsND
-U2MTEwOTk1XX0=
+eyJoaXN0b3J5IjpbOTcxNjMyMjM4LC0xNzY4ODQxMTU4LC0yMD
+MzNDU5ODUwLDQ1NjExMDk5NV19
 -->
