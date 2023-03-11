@@ -146,13 +146,13 @@
 		- `complex(x)`:将x变成复数，增加虚数部分
 		`complex(4) 结果为 4 + 0j`
 - Math库
-	![输入图片说明](/imgs/2023-03-11/zbT10jR2JO45orSS.png)
-	![输入图片说明](/imgs/2023-03-11/30XshL5hDivucmCs.png)
-	![输入图片说明](/imgs/2023-03-11/KgCgVerXOe6yOAon.png)
-	![输入图片说明](/imgs/2023-03-11/95rQDVbaJuEnie4N.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/KwIWV3iFRAlWAMKg.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/AoqCeBJcJRxfjyi2.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/Vi7kXqWLAYiqnbeT.png)
+	![输入图片说明](https://raw.githubusercontent.com/yeahwoo/python/master/imgs/2023-03-11/rRiYPyOWwpAlFGYR.png)
 - 字符串
 	- 切片高级用法
-	![输入图片说明](/imgs/2023-03-11/5nx6PoGt3s1JD1E0.png)
+	
 	- 字符串操作符
 		- `x + y`:连接两个字符串x和y
 		- `n * x 或 x * n`:复制n次字符串x
@@ -342,6 +342,6 @@
 ![输入图片说明](/imgs/2023-03-11/lhaM36QKOUAUg84O.png)
 ![输入图片说明](/imgs/2023-03-11/4h0GBHwVj1oPdQPU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTcwNDk5MiwtMTc2ODg0MTE1OCwtMj
-AzMzQ1OTg1MCw0NTYxMTA5OTVdfQ==
+eyJoaXN0b3J5IjpbLTE4Njg1MjkyNTgsLTI5NTcwNDk5MiwtMT
+c2ODg0MTE1OCwtMjAzMzQ1OTg1MCw0NTYxMTA5OTVdfQ==
 -->
